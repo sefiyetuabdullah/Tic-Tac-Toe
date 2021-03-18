@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game against the computer
+This Tic-Tac-Toe game was coded in replit. Instead of a game where there are two players, this game has the user play against the computer. Unfortunately, the computer knows all of the winning moves, so this game is impossible to win. The assignment was to create a console based game. It was my first introduction to two dimensional arrays and was completed in November of 2020. It could possibly be revamped to be shorter and more concise and I do intend to return to it and use java swing. 
